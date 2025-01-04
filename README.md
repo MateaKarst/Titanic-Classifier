@@ -1,4 +1,4 @@
-# Titanic Survival Prediction App 🚢
+# Titanic Survival Prediction App
 
 This is a machine learning-powered interactive app that predicts a passenger's chances of survival on the Titanic based on various factors like age, gender, class, and more. The app integrates data visualization, predictive modeling, and an engaging user interface for an educational and exploratory experience.
 
